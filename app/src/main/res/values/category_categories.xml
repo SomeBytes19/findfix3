@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_categories">
+        <item>Проблемы с водой</item>
+        <item>Проблемы с животными</item>
+        <item>Проблемы с растительным миром</item>
+        <item>Проблемы с дорожным покрытием</item>
+        <item>Проблемы со зданиями(сооружениями)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828722164718",
+    "firebase_url": "https://findfix-4d88a.firebaseio.com",
+    "project_id": "findfix-4d88a",
+    "storage_bucket": "findfix-4d88a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828722164718:android:f81d6945a4dee0b0ae94ff",
+        "android_client_info": {
+          "package_name": "ex.example.findfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828722164718-e8g1g3gi2rqlviccn2ol20lm2itrjpnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ex.example.findfix",
+            "certificate_hash": "e6fd6fc5558baf441c496219e645224cbead0968"
+          }
+        },
+        {
+          "client_id": "828722164718-207gtq3eh4g5dmmbqvtbs6umopefvui6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-WW35LYlR1I_1NUThDN5XHoyigsZKZBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828722164718-207gtq3eh4g5dmmbqvtbs6umopefvui6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
